@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alisbliu.
+- 👋 Hi, I’m @alisbliu, usually called by "Eduardo".
 - 👀 I’m interested in a internship on programing.
-- 🌱 I’m currently learning python language, looking into build something cool.
+- 🌱 I’m currently in the 3 semester of software engineering, right now I'm learning ReactJs, looking into build something cool.
 - 📫 You can reach me by sending a e-mail: alisbliu@gmail.com or whatsapp (48) 99175-6320.
