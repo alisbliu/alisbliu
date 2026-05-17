@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alisbliu, usually called by "Eduardo".
 - 👀 I’m interested in a programming internship.
-- 🌱 I’m currently in the 5th semester of Software Engineering, actively learning Vue.js, Node.js, MySQL, and MongoDB while building my university extension project.
+- 🌱 I’m currently in the 7th semester of Software Engineering, actively learning Vue.js, Node.js, MySQL, and MongoDB while building my university extension project.
 - 📫 You can reach me by sending an e-mail to: alisbliu@gmail.com or via WhatsApp: (48) 99175-6320.
