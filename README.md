@@ -4,11 +4,11 @@
 
   <!-- Typing SVG (Tema Nebulosa Azul) -->
   <a href="https://github.com/alisbliu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=700&height=100&lines=Oiii!+Eu+sou+o+Eduardo+Barbosa+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Analista+de+Implanta%C3%A7%C3%A3o+na+Nina+Tecnologia" alt="Oiii! Eu sou o Eduardo Barbosa 👋" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=700&height=100&lines=Eduardo+Barbosa;Estudante+de+Engenharia+de+Software;Analista+de+Implanta%C3%A7%C3%A3o" alt="Eduardo Barbosa" />
   </a>
 
   <p align="center">
-    <strong>Estudante de Engenharia de Software · Analista de Implantação na Nina Tecnologia · Entusiasta de IA e Automações</strong>
+    <strong>Estudante de Engenharia de Software · Analista de Implantação na Nina Tecnologia · Santa Catarina, Brasil</strong>
   </p>
 
   <p align="center">
