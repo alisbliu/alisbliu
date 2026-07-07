@@ -39,7 +39,7 @@
 
 - **UsaMais & UsaMais-Agents (Confidencial/Privado)**: Plataforma de e-commerce e ecossistema integrado para orquestração de agentes de inteligência artificial de alto nível aplicados à automação de fluxos.
 - **Antigravity-Fixes (Público)**: Desenvolvimento de correções, patches e melhorias de performance para a IDE de desenvolvimento do Antigravity.
-- **daily-sync / automações (Privado)**: Desenvolvimento de robôs de sincronização diária de logs e coleta de dados via APIs (Spotify, Steam, GitHub) e consolidação automática em notas do Obsidian.
+- **obsidian-personal-vault (Confidencial/Privado)**: Desenvolvimento de rotinas, sincronizadores locais de APIs (Spotify, Steam, GitHub) e estruturação do Segundo Cérebro utilizando o sistema decimal de classificação.
 
 ---
 
@@ -87,10 +87,10 @@
   <table border="0" cellpadding="0" cellspacing="5" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=alisbliu&show_icons=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0b0f19&border_color=1e293b&hide_border=false" alt="Estatísticas do GitHub" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=alisbliu&show_icons=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0b0f19&border_color=1e293b&hide_border=false&v=2" alt="Estatísticas do GitHub" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisbliu&theme=tokyonight" alt="Radar de Atividade" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisbliu&theme=tokyonight&v=2" alt="Radar de Atividade" width="100%" />
       </td>
     </tr>
   </table>
@@ -99,25 +99,17 @@
   <table border="0" cellpadding="0" cellspacing="5" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisbliu&layout=compact&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0b0f19&border_color=1e293b" alt="Linguagens Mais Usadas" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisbliu&layout=compact&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0b0f19&border_color=1e293b&v=2" alt="Linguagens Mais Usadas" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisbliu&theme=react-dark&bg_color=0b0f19&color=38bdf8&line=38bdf8&point=00d2ff&area=true&hide_border=false" alt="Gráfico de Atividade" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisbliu&theme=react-dark&bg_color=0b0f19&color=38bdf8&line=38bdf8&point=00d2ff&area=true&hide_border=false&v=2" alt="Gráfico de Atividade" width="100%" />
       </td>
     </tr>
   </table>
 
   <!-- Streak Stats Card -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisbliu&theme=tokyonight&ring=38bdf8&fire=38bdf8&stroke=1e293b&currStreakNum=38bdf8" alt="Streak de Contribuições" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisbliu&theme=tokyonight&ring=38bdf8&fire=38bdf8&stroke=1e293b&currStreakNum=38bdf8&v=2" alt="Streak de Contribuições" />
   </p>
 
-</div>
-
----
-
-## 📅 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
