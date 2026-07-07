@@ -39,7 +39,7 @@
 
 - **UsaMais & UsaMais-Agents (Confidencial/Privado)**: Plataforma de e-commerce e ecossistema integrado para orquestração de agentes de inteligência artificial de alto nível aplicados à automação de fluxos.
 - **Antigravity-Fixes (Público)**: Desenvolvimento de correções, patches e melhorias de performance para a IDE de desenvolvimento do Antigravity.
-- **obsidian-personal-vault (Confidencial/Privado)**: Desenvolvimento de rotinas, sincronizadores locais de APIs (Spotify, Steam, GitHub) e estruturação do Segundo Cérebro utilizando o sistema decimal de classificação.
+- **Obsidian-personal-vault (Confidencial/Privado)**: Desenvolvimento de rotinas, sincronizadores locais de APIs (Spotify, Steam, GitHub) e estruturação do Segundo Cérebro utilizando o sistema decimal de classificação.
 
 ---
 
