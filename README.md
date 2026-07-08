@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <strong>Estudante de Engenharia de Software na <a href="https://portal.uniasselvi.com.br/" target="_blank">Uniasselvi</a> · Analista de Implantação na <a href="https://ninatecnologia.com.br/" target="_blank">Nina Tecnologia</a> · Santa Catarina, Brasil</strong>
+    <strong>Estudante de Engenharia de Software na <a href="https://portal.uniasselvi.com.br/institucional/locais/palhoca-sc" target="_blank">Uniasselvi</a> · Analista de Implantação na <a href="https://ninatecnologia.com.br/" target="_blank">Nina Tecnologia</a> · Santa Catarina, Brasil</strong>
   </p>
 
   <p align="center">
