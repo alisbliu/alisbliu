@@ -35,7 +35,7 @@
 
 ---
 
-## 🌌 Projetos em Destaque
+## ✨ Projetos em Destaque
 
 - **UsaMais & UsaMais-Agents (Confidencial/Privado)**: Plataforma de e-commerce (CRUD) focada em moda/brechó, além de um ecossistema integrado para orquestração de agentes de inteligência artificial de alto nível aplicados à automação de fluxos.
 - **Antigravity-Fixes (Público)**: Desenvolvimento de correções, patches e melhorias de performance para a IDE de desenvolvimento do Antigravity.
