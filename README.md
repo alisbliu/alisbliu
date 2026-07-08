@@ -1,5 +1,3 @@
-# 🌌 Eduardo Barbosa da Silva
-
 <div align="center">
 
   <!-- Typing SVG (Tema Nebulosa Azul) -->
