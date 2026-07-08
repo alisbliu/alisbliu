@@ -83,42 +83,43 @@
 ## 📈 Estatísticas do GitHub (alisbliu)
 
 <div align="center">
-  <!-- Grid Linha 1: GitHub Stats + Radar de Atividade -->
+  <!-- Grid Linha 1: GitHub Stats Estático + Radar de Atividade Estático -->
   <table border="0" cellpadding="0" cellspacing="5" width="100%">
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/alisbliu" target="_blank">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=alisbliu&show_icons=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0b0f19&border_color=1e293b&hide_border=false" alt="Estatísticas do GitHub" width="100%" />
+          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-cards-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/alisbliu" target="_blank">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisbliu&theme=tokyonight&v=4" alt="Radar de Atividade" width="100%" />
+          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-cards-output/tokyonight/0-profile-details.svg" alt="Radar de Atividade" width="100%" />
         </a>
       </td>
     </tr>
   </table>
 
-  <!-- Grid Linha 2: Most Used Languages + Activity Wave -->
+  <!-- Grid Linha 2: Most Used Languages + Productive Time Estáticos -->
   <table border="0" cellpadding="0" cellspacing="5" width="100%">
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/alisbliu" target="_blank">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=alisbliu&layout=compact&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0b0f19&border_color=1e293b" alt="Linguagens Mais Usadas" width="100%" />
+          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-cards-output/tokyonight/2-most-commit-language.svg" alt="Linguagens Mais Usadas" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/alisbliu" target="_blank">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisbliu&theme=react-dark&bg_color=0b0f19&color=38bdf8&line=38bdf8&point=00d2ff&area=true&hide_border=false&v=4" alt="Gráfico de Atividade" width="100%" />
+          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-cards-output/tokyonight/4-productive-time.svg" alt="Horários de Produtividade" width="100%" />
         </a>
       </td>
     </tr>
   </table>
 
-  <!-- Streak Stats Card -->
+  <!-- Cobra Devoradora de Commits (Animação Auto-Gerada pelo GitHub Actions) -->
+  <br />
   <p align="center">
     <a href="https://github.com/alisbliu" target="_blank">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisbliu&theme=tokyonight&ring=38bdf8&fire=38bdf8&stroke=1e293b&currStreakNum=38bdf8&v=4" alt="Streak de Contribuições" />
+      <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/output/dist/github-contribution-grid-snake-blue.svg" alt="Cobrinha de Commits" width="100%" />
     </a>
   </p>
 
