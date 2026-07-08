@@ -12,7 +12,7 @@
   </p>
 
   <p align="center">
-    Explore meu universo de códigos, arquiteturas de sistemas e automações! 🌌
+    Explore meu universo de códigos, arquiteturas de sistemas e automações! 🔄
   </p>
 
   <!-- Botões de Contato -->
@@ -37,9 +37,9 @@
 
 ## 🌌 Projetos em Destaque
 
-- **UsaMais & UsaMais-Agents (Confidencial/Privado)**: Plataforma de e-commerce e ecossistema integrado para orquestração de agentes de inteligência artificial de alto nível aplicados à automação de fluxos.
+- **UsaMais & UsaMais-Agents (Confidencial/Privado)**: Plataforma de e-commerce (CRUD) focada em moda/brechó, além de um ecossistema integrado para orquestração de agentes de inteligência artificial de alto nível aplicados à automação de fluxos.
 - **Antigravity-Fixes (Público)**: Desenvolvimento de correções, patches e melhorias de performance para a IDE de desenvolvimento do Antigravity.
-- **obsidian-personal-vault (Confidencial/Privado)**: Desenvolvimento de rotinas, sincronizadores locais de APIs (Spotify, Steam, GitHub) e estruturação do Segundo Cérebro utilizando o sistema decimal de classificação.
+- **Obsidian-Personal-Vault (Confidencial/Privado)**: Desenvolvimento de rotinas, sincronizadores locais de APIs diversas (Spotify, Steam, GitHub...) e estruturação de um 'Segundo Cérebro' utilizando o sistema decimal de classificação para organização pessoal integrada ao Obsidian.
 
 ---
 
@@ -80,7 +80,7 @@
 
 ---
 
-## 📈 Estatísticas do GitHub (alisbliu)
+## 📈 Estatísticas do GitHub
 
 <div align="center">
   <!-- Grid Linha 1: GitHub Stats Estático + Radar de Atividade Estático -->
