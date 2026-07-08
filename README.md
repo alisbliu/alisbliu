@@ -88,12 +88,12 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/alisbliu" target="_blank">
-          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-cards-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" width="100%" />
+          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/alisbliu" target="_blank">
-          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-cards-output/tokyonight/0-profile-details.svg" alt="Radar de Atividade" width="100%" />
+          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Radar de Atividade" width="100%" />
         </a>
       </td>
     </tr>
@@ -104,12 +104,12 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/alisbliu" target="_blank">
-          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-cards-output/tokyonight/2-most-commit-language.svg" alt="Linguagens Mais Usadas" width="100%" />
+          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens Mais Usadas" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/alisbliu" target="_blank">
-          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-cards-output/tokyonight/4-productive-time.svg" alt="Horários de Produtividade" width="100%" />
+          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horários de Produtividade" width="100%" />
         </a>
       </td>
     </tr>
@@ -119,7 +119,7 @@
   <br />
   <p align="center">
     <a href="https://github.com/alisbliu" target="_blank">
-      <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/output/dist/github-contribution-grid-snake-blue.svg" alt="Cobrinha de Commits" width="100%" />
+      <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/output/github-contribution-grid-snake-blue.svg" alt="Cobrinha de Commits" width="100%" />
     </a>
   </p>
 
