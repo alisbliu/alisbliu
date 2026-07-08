@@ -83,8 +83,16 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Grid Linha 1: GitHub Stats Estático + Radar de Atividade Estático -->
   <table border="0" cellpadding="0" cellspacing="5" width="100%">
+    <!-- Gráfico Wide (Ocupa 100% da Largura da Tabela) -->
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/alisbliu" target="_blank">
+          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Linha do Tempo de Contribuições" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <!-- Gráficos Quadrados (50% cada lado) -->
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/alisbliu" target="_blank">
@@ -93,23 +101,15 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/alisbliu" target="_blank">
-          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Radar de Atividade" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Grid Linha 2: Most Used Languages + Productive Time Estáticos -->
-  <table border="0" cellpadding="0" cellspacing="5" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/alisbliu" target="_blank">
           <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens Mais Usadas" width="100%" />
         </a>
       </td>
-      <td width="50%" align="center">
+    </tr>
+    <!-- Gráfico Quadrado Final (Centralizado na parte inferior com a mesma proporção) -->
+    <tr>
+      <td colspan="2" align="center">
         <a href="https://github.com/alisbliu" target="_blank">
-          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horários de Produtividade" width="100%" />
+          <img src="https://raw.githubusercontent.com/alisbliu/alisbliu/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horários de Produtividade" width="50%" />
         </a>
       </td>
     </tr>
