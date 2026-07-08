@@ -1,4 +1,4 @@
-# 🌌 Eduardo Barbosa da Silva (alisbliu)
+# 🌌 Eduardo Barbosa da Silva
 
 <div align="center">
 
