@@ -35,8 +35,9 @@
 
 ## 🎯 Projetos em Destaque
 
+- **[Hackathon Vitru 2026 — 3º Lugar Nacional 🥉](https://github.com/alisbliu/hackathon-vitru-grupo-cinco) (Público · Premiado)**: Solução de IA Conversacional por Voz (Sofia & Edu) e retenção preditiva ativa para o maior grupo educacional de EaD do Brasil (+1 milhão de alunos na Uniasselvi e UniCesumar). Desenvolvi a análise exploratória de dados (dataset de 457k alunos), a modelagem matemática de LTV/EBITDA (~R$ 23M de receita em risco evitado), os contratos de integração de dados e o **Dashboard Executivo B2B** em React 19, TypeScript e Tailwind CSS. Confira o [Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7497035029026623488/) e a [Apresentação do Pitch](https://github.com/alisbliu/hackathon-vitru-grupo-cinco/blob/main/Pitch_Hack_Grupo_5.pdf).
 - **UsaMais & UsaMais-Agents (Confidencial/Privado)**: Plataforma de e-commerce (CRUD) focada em moda/brechó, além de um ecossistema integrado para orquestração de agentes de inteligência artificial de alto nível aplicados à automação de fluxos.
-- **Antigravity-Fixes (Público)**: Desenvolvimento de correções, patches e melhorias de performance para a IDE de desenvolvimento do Antigravity.
+- **[Antigravity-Fixes](https://github.com/alisbliu/Antigravity-Fixes) (Público)**: Desenvolvimento de correções, patches e melhorias de performance para a IDE de desenvolvimento do Antigravity.
 - **Obsidian-Personal-Vault (Confidencial/Privado)**: Desenvolvimento de rotinas, sincronizadores locais de APIs diversas (Spotify, Steam, GitHub...) e estruturação de um 'Segundo Cérebro' utilizando o sistema decimal de classificação para organização pessoal integrada ao Obsidian.
 
 ---
